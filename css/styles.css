@@ -1,0 +1,25 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2.intro {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: purple;
+}
+
+.intro {
+    font-style: italic;
+    width: 50%;
+}
+
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+.author {
+    font-style: italic;
+    font-size: small;
+    width: 50%;
+}
