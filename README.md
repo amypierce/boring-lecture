@@ -3,12 +3,10 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Features](#features)
+* [To-do list](to-do-list})
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
@@ -21,7 +19,7 @@ This page was created for a practice lesson in my Epicodus progamming class. The
 ## Setup
 Clone the code to your computer and open the index.html file in a web browser.
 
-To-do list:
+## To-do list:
 * Refine layout after learning more styling techniques
 
 ## Status
